@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-12-11T14:16:42-03:00</updated><id>/feed.xml</id><title type="html">BitDevs em Português</title><subtitle>BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados.</subtitle><entry><title type="html">Seminário Socrático 001</title><link href="/2023-12-11-socratic-seminar-001" rel="alternate" type="text/html" title="Seminário Socrático 001" /><published>2023-12-11T00:00:00-03:00</published><updated>2023-12-11T00:00:00-03:00</updated><id>/socratic-seminar-001</id><content type="html" xml:base="/2023-12-11-socratic-seminar-001">&lt;h2 id=&quot;avisos&quot;&gt;Avisos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Entrem no grupo do Telegram “&lt;a href=&quot;https://t.me/bitdevsrp&quot;&gt;Ribeirão Preto Bitdevs&lt;/a&gt;” para ajudar na curadoria dos encontros!&lt;/li&gt;
+  &lt;li&gt;Respeite a privacidade dos participantes.&lt;/li&gt;
+  &lt;li&gt;Os meetups nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados, de forma anônima se assim o desejarem.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;agradecimentos&quot;&gt;Agradecimentos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Agradecemos ao Dabi Business Park e Vinteum&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;aquecimento&quot;&gt;Aquecimento&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://txstats.com/d/000000054/utxo-set-repartition-by-output-type?orgId=1&quot;&gt;UTXO set&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://transactionfee.info/charts/fees-per-day-btc/&quot;&gt;Fees por dia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dune.com/dgtl_assets/bitcoin-ordinals-analysis&quot;&gt;Inscriptions stats&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;seminário-socrático&quot;&gt;Seminário Socrático&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2023-December/000131.html&quot;&gt;Bitcoin Core 26.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitlab.com/-/snippets/3611229&quot;&gt;Falsificando Wallet Fingerprint&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ishaana.com/blog/wallet_fingerprinting/&quot;&gt;Wallet Fingerprinting&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://delvingbitcoin.org/t/differential-fuzzing-of-bitcoin-implementations/208/3&quot;&gt;Bitcoin Fuzz - Differential Fuzzing de implementações/libs de Bitcoin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://delvingbitcoin.org/c/implementation/wg-cluster-mempool/9&quot;&gt;Discussões sobre Cluster Mempool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://delvingbitcoin.org/t/warnet-simulations/232&quot;&gt;Simulações com Warnet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/4de67a207019fd4d855ef0a188b4519c/Durabit/blob/main/Durabit%20-%20A%20Bitcoin-native%20Incentive%20Mechanism%20for%20Data%20Distribution.pdf&quot;&gt;Durabit: Mecanismo de Incentivo para Distribuição de dados Nativa no Bitcoin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://robinlinus.com/bitstream.pdf&quot;&gt;BitStream (Hospedagem de arquivos descentralizada, incentivada por pagamentos em BTC)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/erik17192799/status/1730614545452863497&quot;&gt;Utreexo + Compact Block Filters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004204.html&quot;&gt;Lightning Address + Bolt12&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/lnurl/luds/pull/251&quot;&gt;Remessas com LNURL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022093.html&quot;&gt;Covenants podem resolver o problema de transaction recycling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mutinywallet.com/solving-subscriptions-on-bitcoin-one-zap-at-a-time/&quot;&gt;Assinaturas com Nostr Wallet Connect&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stacker.news/items/300057&quot;&gt;BitEscrow: Escrow self-custodial?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://b10c.me/observations/08-missing-sanctioned-transactions&quot;&gt;Censura da F2Pool?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool?ref=nobsbitcoin.com&quot;&gt;Lançamento Demand - Nova Mining Pool, Primeira a adotar StratumV2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcoinmagazine.com/technical/an-ocean-launch-post-mortem&quot;&gt;Lançamento Ocean - Renascimento Eligius, censura/filtro de Inscriptions, Payouts direto na coinbase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022154.html&quot;&gt;Blake3 em Bitcoin Script através da BitVM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/super_testnet/status/1726772975544807913&quot;&gt;BitVM Sha256 prover&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/neocarmack/STARK/blob/main/STARK%20proof%20for%20BitVM%20circuit%20execution.pdf&quot;&gt;Stark proof for BitVM Execution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;outros&quot;&gt;Outros&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/digital-assets/2023/11/20/nigerian-bitcoin-miner-trojan-mining-launch-500kw-hydro-mining-site/?sh=471176eb5e22&quot;&gt;Trojan Mining - Mineradora em hidroelétrica nigeriana&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/mintgreenhq/status/1722403608983937176&quot;&gt;Aquecedor digital + Mineração de BTC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lnesim.com/&quot;&gt;Compras de eSIMS via LN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opcodeexplained.com/opcodes/&quot;&gt;Opcodes Explained&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobsbitcoin.com/bbqr-better-bitcoin-qr/&quot;&gt;Better Bitcoin QR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Avisos</summary></entry></feed>
