@@ -14,7 +14,7 @@ meetup: https://www.meetup.com/clube-bitcoin-ribeirao-preto/events/298674105/
 
 ## Agradecimentos
 
-- Agradecemos ao Dabi Business Park e à Vinteum. 
+- Agradecemos ao Dabi Business Park, à Vinteum, e ao Super Testnet pela presença! 
 
 ## Seminário Socrático
 
