@@ -1,7 +1,8 @@
 ---
 layout: post
-type: socratic
 title: "Seminário Socrático 002"
+date: 2024-01-29
+type: socratic
 meetup: https://www.meetup.com/clube-bitcoin-ribeirao-preto/events/298674105/
 ---
 
