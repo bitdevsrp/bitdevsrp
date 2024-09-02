@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-01T11:49:58-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bitdevs em Português</title><subtitle>Bitdevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados.</subtitle><entry><title type="html">Seminário Socrático 006</title><link href="http://localhost:4000/2024-09-02-socratic-seminar-006" rel="alternate" type="text/html" title="Seminário Socrático 006" /><published>2024-09-02T00:00:00-03:00</published><updated>2024-09-02T00:00:00-03:00</updated><id>http://localhost:4000/socratic-seminar-006</id><content type="html" xml:base="http://localhost:4000/2024-09-02-socratic-seminar-006"><![CDATA[<h2 id="avisos">Avisos</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-01T22:52:04-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bitdevs em Português</title><subtitle>Bitdevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados.</subtitle><entry><title type="html">Seminário Socrático 006</title><link href="http://localhost:4000/2024-09-02-socratic-seminar-006" rel="alternate" type="text/html" title="Seminário Socrático 006" /><published>2024-09-02T00:00:00-03:00</published><updated>2024-09-02T00:00:00-03:00</updated><id>http://localhost:4000/socratic-seminar-006</id><content type="html" xml:base="http://localhost:4000/2024-09-02-socratic-seminar-006"><![CDATA[<h2 id="avisos">Avisos</h2>
 
 <ul>
   <li>Entrem no grupo do Whatsapp <a href="https://chat.whatsapp.com/Ey6mJbwp0Pe43b0KomAjmC">Ribeirão Preto Bitdevs</a>!</li>
@@ -17,21 +17,17 @@
 
 <ul>
   <li><a href="https://mempool.space/tx/fe75e7d6e9f1c73f77c3dbeddd911dc6fbb8bcf98b7a37fec1820adba989e378">Bitaxe achou um bloco</a></li>
-  <li><a href="https://x.com/protonvpn/status/1825181045035074016">Apple App Store censurando aplicativos de VPN</a></li>
   <li><a href="https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/">Mutiny wallet foi de arrasta pra cima</a></li>
   <li><a href="https://www.nobsbitcoin.com/simplex-chat-v6-0/">SimpleX Chat v6.0.0</a></li>
-  <li><a href="https://x.com/SandLabs_21/status/1820311557269594463">Vírus trocando endereços na área de transferência</a></li>
 </ul>
 
 <h3 id="bitcoin">Bitcoin</h3>
 
 <ul>
   <li><a href="https://medium.com/vinteum-org/floresta-update-simplifying-bitcoin-node-integration-for-wallets-6886ea7c975c">Floresta v0.6.0</a></li>
-  <li><a href="https://x.com/mempool/status/1828057401968533629">Mempool v3.0.0</a></li>
   <li><a href="https://github.com/bitcoindevkit/bdk/releases/tag/v1.0.0-beta.1">BDK 1.0.0-beta.1</a></li>
   <li><a href="https://github.com/bitcoin-core/bitcoin-devwiki/wiki/28.0-Release-Notes-Draft">Bitcoin 28.0 rc1</a></li>
   <li><a href="https://bitcoin.stackexchange.com/questions/123500/is-there-an-economic-incentive-to-use-p2wsh-over-p2tr">Existe incentivo econômico em usar P2WSH ao invés de P2TR?</a></li>
-  <li><a href="https://x.com/mononautical/status/1826679495568564677">Bitcoin Core’s conservative next block fee recommendations</a> <a href="https://x.com/mononautical/status/1826604180251050388">2</a></li>
   <li><a href="https://bitvm.org/bitvm_bridge.pdf">BitVM2</a></li>
   <li><a href="https://delvingbitcoin.org/t/zawy-s-alternating-timestamp-attack/1062">New time warp vulnerability in testnet4</a> <a href="https://bitcoinops.org/en/newsletters/2024/08/16/">2</a></li>
   <li><a href="https://groups.google.com/g/bitcoinminingdev/about">Bitcoin Mining Development Mailing List</a></li>
@@ -40,7 +36,6 @@
 <h3 id="lightning">Lightning</h3>
 
 <ul>
-  <li><a href="https://x.com/ngoline/status/1828193300546724236">Bolt11 em C# / .NET</a></li>
   <li><a href="https://github.com/ZeusLN/zeus/releases/tag/v0.9.0">Zeus v0.9.0</a></li>
 </ul>
 
@@ -48,7 +43,7 @@
 
 <ul>
   <li><a href="https://www.usenix.org/system/files/woot24-scott.pdf">Engenharia de uma carteira de bitcoin com backdoor</a></li>
-  <li><a href="https://darkskippy.com/">Dark Skippy</a> e <a href="https://x.com/nunchuk_io/status/1820710359780704557">mitigações</a></li>
+  <li><a href="https://darkskippy.com/">Dark Skippy</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Avisos]]></summary></entry><entry><title type="html">Seminário Socrático 005</title><link href="http://localhost:4000/2024-04-29-socratic-seminar-005" rel="alternate" type="text/html" title="Seminário Socrático 005" /><published>2024-04-29T00:00:00-03:00</published><updated>2024-04-29T00:00:00-03:00</updated><id>http://localhost:4000/socratic-seminar-005</id><content type="html" xml:base="http://localhost:4000/2024-04-29-socratic-seminar-005"><![CDATA[<h2 id="avisos">Avisos</h2>
 
 <ul>
